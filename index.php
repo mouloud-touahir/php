@@ -6,7 +6,7 @@
     <title>Page PHP Simple</title>
 </head>
 <body>
-    <h1><?php echo "Bienvenue sur ma page PHP !"; ?></h1>
+    <h1><?php echo "Bienvenue sur ma page PHP APX13 !"; ?></h1>
     <p>Aujourd'hui, nous sommes le <?php echo date("d/m/Y"); ?>.</p>
 </body>
 </html>
